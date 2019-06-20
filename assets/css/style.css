@@ -1,0 +1,106 @@
+body {
+  font-family: 'Oswald', sans-serif;
+}
+
+.Barras {
+  background-color: #0033a1;
+}
+
+p {
+  line-height: 2.5em;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+  font-weight: 700;
+  padding-top: -4em;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.5em;
+  font-weight: 400;
+  padding-top: 1em;
+}
+
+h4 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 3em;
+  font-weight: 400;
+  padding-top: 7em;
+  margin-top: 2em;
+}
+
+h5 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1em;
+  font-weight: 400;
+  /* padding-top: 1em;
+  margin-top: 1em; */
+}
+
+.hero {
+  background-image: url('../img/YoJose.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  background-position: center;
+}
+
+.iam {
+  padding-top: 8em;
+}
+
+hr {
+  width: 15%;
+  height: 2px;
+  background-color: #FFFFFF;
+  min-width: 240px;
+  margin-top: -0.5em;
+  margin-bottom: -0.5em;
+}
+
+.linea2 {
+  width: 100px;
+  height: 2px;
+  background-color: #373A3C;
+  min-width: 100px;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.linea3 {
+  width: 100px;
+  height: 2px;
+  background-color: #373A3C;
+  min-width: 100px;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.icons-section {
+  background-color: #0033a1;
+}
+
+.textofooter {
+  font-size: 2.8em;
+  font-weight: 700;
+}
+
+.contact {
+  font-family: 'Oswald', sans-serif;
+  font-size: 3em;
+  font-weight: 400;
+}
+
+.Trabajos {
+  background-color: #0033a1;
+}
+
+a.nav-link:hover {
+  background: blue;
+}
